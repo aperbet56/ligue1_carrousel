@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:opsz,wght@6..12,300&family=Poppins:wght@300&display=swap');
+
 /**** Reset ****/
 
 *,
@@ -8,6 +10,7 @@
   box-sizing: border-box;
   text-decoration: none;
   list-style-type: none;
+  font-family: 'Nunito Sans', sans-serif;
 }
 
 /**** Variables CSS ****/
@@ -47,7 +50,6 @@ header, footer {
 h1, footer span {
   text-align: center;
   color: var(--primary);
-  font-family: sans-serif;
 }
 
 h1 {
