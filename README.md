@@ -6,7 +6,7 @@ Création d'un carrousel affichant les différents clubs de Ligue 1 en HTML5, CS
 
 ## Démonstration
 
-Lien vers le projet :
+Lien vers le projet : https://aperbet56.github.io/ligue1_carrousel/
 
 ## Développez avec
 
