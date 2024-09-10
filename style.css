@@ -99,3 +99,15 @@ h1 {
 footer span {
   font-size: 20px;
 }
+
+/**** Responsive design ****/
+
+@media screen and (max-width: 500px) {
+  .swiper {
+    height: 450px;
+  }
+  .swiper-slide {
+    width: 300px;
+    height: 400px;
+  }
+}
