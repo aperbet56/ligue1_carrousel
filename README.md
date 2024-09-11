@@ -14,6 +14,7 @@ Lien vers le projet : https://aperbet56.github.io/ligue1_carrousel/
 - CSS3
 - Flexbox
 - Animations CSS
+- Loader
 - Importation de la police "Nunito Sans"
 - Utilisation d'un normaliseur : le fichier normalize.css
 - Page web responsive
