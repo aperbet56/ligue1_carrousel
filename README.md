@@ -1,5 +1,7 @@
 ## LIGUE 1 CARROUSEL ⚽
 
+![Design preview for the project](./images/preview.png)
+
 ## Le challenge
 
 Création d'un carrousel affichant les différents clubs de Ligue 1 en HTML5, CSS3,JavaScript et Swiper.js, une puissante blibrairie JavaScript, pour créer des carrousels et sliders interactifs.
@@ -8,7 +10,7 @@ Création d'un carrousel affichant les différents clubs de Ligue 1 en HTML5, CS
 
 Lien vers le projet : https://aperbet56.github.io/ligue1_carrousel/
 
-## Développez avec
+## Projet développé avec
 
 - Utilisation des balises sémantiques HTML5
 - CSS3
